@@ -1,7 +1,7 @@
 # Real-time surface terrainer with image processing
 ===================
 
-![](screen-shot.png)
+![](screen-shot.jpg)
 
 
 This program generates 3D terrains from a video source by image processing. It is a good starter for your own Remote Sensing, Remote Topography, Captcha, Radar, GPS and make real 3D maps by CNC machines projects.
